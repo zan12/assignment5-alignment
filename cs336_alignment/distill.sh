@@ -1,0 +1,1 @@
+uv run -m cs336_alignment.distill --math_train_data_dir "./data/a5-alignment/MATH/train_shard_0.jsonl" --output_dir "./data/a5-alignment/MATH/r1_distilled_train_shard_0.jsonl"
